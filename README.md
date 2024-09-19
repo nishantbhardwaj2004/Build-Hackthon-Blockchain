@@ -33,4 +33,3 @@ MIT License
 
 --- 
 
-You can customize it further based on additional project details.
